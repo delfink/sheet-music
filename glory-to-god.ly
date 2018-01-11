@@ -1,6 +1,6 @@
 \header {
   title = "Glory to God in the highest"
-  composer = "Daniel J. Fortune"
+  composer = ""
 }
 
 music = \relative c' {
@@ -14,7 +14,7 @@ f2
 
 text = \lyricmode {
   Glo -- ry to God in the high -- est, and peace to his peo -- ple on earth.
-	Lord God, heav’n -- ly King, al -- might -- y God and Fa -- ther,
+	Lord God, heavân -- ly King, al -- might -- y God and Fa -- ther,
 	we wor -- ship you, we give you thanks, we praise you for your glo -- ry.
 	Lord Je -- sus Christ, on -- ly Son of the Fa -- ther,
 	Lord God, Lamb of God, you take a -- way the sin of the world:
